@@ -1,0 +1,90 @@
+[
+	{
+		"id": 1,
+		"title": "California Roll",
+		"price": 8.99,
+		"description": "Crab, avocado, and cucumber rolled with seaweed and sushi rice, served with soy sauce and wasabi.",
+		"image": "images/soshi.jpg",
+		"in_stock": true,
+		"ingredients": ["Crab", "Avocado", "Cucumber", "Seaweed", "Sushi rice", "Soy sauce", "Wasabi"]
+    },
+	{
+		"id": 2,
+		"title": "Salmon Nigiri",
+		"price": 4.49,
+		"description": "Sliced raw salmon over pressed sushi rice, served with soy sauce and wasabi.",
+		"image": "images/salmon.jpg",
+		"in_stock": true,
+		"ingredients": ["Salmon", "Sushi rice", "Soy sauce", "Wasabi"]
+	},
+	{
+		"id": 3,
+		"title": "Tuna Sashimi",
+		"price": 9.99,
+		"description": "Fresh slices of raw tuna, served with soy sauce and pickled ginger.",
+		"image": "images/tona.jpg",
+		"in_stock": true,
+		"ingredients": ["Tuna", "Soy sauce", "Pickled ginger"]
+	},
+	{
+		"id": 4,
+		"title": "Spicy Tuna Roll",
+		"price": 10.99,
+		"description": "Tuna mixed with spicy mayo, rolled with seaweed and sushi rice, served with soy sauce and wasabi.",
+		"image": "images/tona2.jpg",
+		"in_stock": true,
+		"ingredients": ["Tuna", "Spicy mayo", "Seaweed", "Sushi rice", "Soy sauce", "Wasabi"]
+	},
+	{
+		"id": 5,
+		"title": "Shrimp Tempura Roll",
+		"price": 11.49,
+		"description": "Crispy shrimp tempura, avocado, and cucumber rolled with seaweed and sushi rice, served with soy sauce and wasabi.",
+		"image": "https://placehold.co/300x300",
+		"in_stock": true,
+		"ingredients": [
+			"Shrimp tempura",
+			"Avocado",
+			"Cucumber",
+			"Seaweed",
+			"Sushi rice",
+			"Soy sauce",
+			"Wasabi"
+		]
+	},
+	{
+		"id": 6,
+		"title": "Dragon Roll",
+		"price": 12.99,
+		"description": "Eel, avocado, and cucumber rolled with seaweed and sushi rice, topped with sliced avocado and eel sauce.",
+		"image": "https://placehold.co/300x300",
+		"in_stock": true,
+		"ingredients": ["Eel", "Avocado", "Cucumber", "Seaweed", "Sushi rice", "Eel sauce"]
+	},
+	{
+		"id": 7,
+		"title": "Vegetable Roll",
+		"price": 7.99,
+		"description": "Assorted fresh vegetables rolled with seaweed and sushi rice, served with soy sauce and wasabi.",
+		"image": "https://placehold.co/300x300",
+		"in_stock": true,
+		"ingredients": ["Assorted vegetables", "Seaweed", "Sushi rice", "Soy sauce", "Wasabi"]
+	},
+	{
+		"id": 8,
+		"title": "Philadelphia Roll",
+		"price": 9.49,
+		"description": "Smoked salmon, cream cheese, and cucumber rolled with seaweed and sushi rice, served with soy sauce and wasabi.",
+		"image": "https://placehold.co/300x300",
+		"in_stock": true,
+		"ingredients": [
+			"Smoked salmon",
+			"Cream cheese",
+			"Cucumber",
+			"Seaweed",
+			"Sushi rice",
+			"Soy sauce",
+			"Wasabi"
+		]
+	}
+]
